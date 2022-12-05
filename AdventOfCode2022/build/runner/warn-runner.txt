@@ -20,6 +20,6 @@ missing module named _frozen_importlib_external - imported by importlib._bootstr
 excluded module named _frozen_importlib - imported by importlib (optional), importlib.abc (optional)
 missing module named pep517 - imported by importlib.metadata (delayed)
 missing module named org - imported by pickle (optional)
-missing module named nt - imported by shutil (conditional), os (delayed, conditional, optional), ntpath (optional), pathlib (conditional)
+missing module named nt - imported by shutil (conditional), ntpath (optional), pathlib (conditional), os (delayed, conditional, optional)
 missing module named 'org.python' - imported by copy (optional)
 missing module named winreg - imported by mimetypes (optional), urllib.request (delayed, conditional, optional)

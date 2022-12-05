@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: AdventOfCode2022
-Version: 1.1
+Version: 1.2
 Summary: My Advent of Code solutions in Python. https://adventofcode.com/2022
 Home-page: https://github.com/GlobalCreativeApkDev/AdventOfCode2022
 Author: GlobalCreativeApkDev
@@ -14,6 +14,10 @@ License-File: LICENSE
 # Advent of Code 2022 in Python
 
 My [Advent of Code 2022](https://adventofcode.com/2022) solutions in Python programming language.
+
+## Installation
+
+**pip install AdventOfCode2022**
 
 ## Run solutions
 

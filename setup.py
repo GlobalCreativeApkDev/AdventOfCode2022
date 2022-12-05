@@ -9,7 +9,7 @@ def readme():
 
 setup(
     name='AdventOfCode2022',
-    version='1.01',
+    version='1.02',
     packages=['AdventOfCode2022'],
     url='https://github.com/GlobalCreativeApkDev/AdventOfCode2022',
     license='MIT',

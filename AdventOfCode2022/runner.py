@@ -13,7 +13,7 @@ def main():
     :return: None
     """
 
-    for i in range(1, len(os.listdir())):
+    for i in range(1, len(os.listdir()) - 3):
         for k in ["a", "b"]:
             os.system("python3 day" + str(i) + "/day" + str(i) + str(k) + ".py")
 
